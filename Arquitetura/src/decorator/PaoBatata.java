@@ -1,4 +1,4 @@
-package br.me.padroes.decorator;
+package decorator;
 
 public class PaoBatata extends HamburguerDecorator {
 	public PaoBatata(Hamburguer hamburguer) {

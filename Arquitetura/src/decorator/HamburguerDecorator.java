@@ -1,4 +1,4 @@
-package br.me.padroes.decorator;
+package decorator;
 
 public abstract class HamburguerDecorator extends Hamburguer {
 	Hamburguer hamburguer;

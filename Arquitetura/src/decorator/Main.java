@@ -1,4 +1,4 @@
-package br.me.padroes.decorator;
+package decorator;
 
 public class Main {
 

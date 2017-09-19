@@ -1,4 +1,4 @@
-package br.me.padroes.builder;
+package builder;
 
 public class Usuario  
 {

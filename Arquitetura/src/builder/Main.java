@@ -1,6 +1,6 @@
-package br.me.padroes.builder;
+package builder;
 
-import br.me.padroes.builder.Usuario.UsuarioBuilder;
+import builder.Usuario.UsuarioBuilder;
 
 public class Main {
 
